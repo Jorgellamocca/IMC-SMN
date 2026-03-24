@@ -1,2 +1,3 @@
-proyecto/data/
-*.geojson
+*
+!proyecto/
+!proyecto/**
